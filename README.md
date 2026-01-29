@@ -119,9 +119,3 @@ rejection analysis, employee performance, and machine efficiency to support data
 - Enabled data-driven strategies for improving manufacturing quality.
 
 ---
-
-### 👤 Author  
-**Hari Prasad Ram**  
-📧 [LinkedIn](https://www.linkedin.com/in/hariprasad-ram-933152358/) | [GitHub](https://github.com/HariPrasad-Ram)  
-
----
